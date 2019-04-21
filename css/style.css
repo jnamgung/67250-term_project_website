@@ -2734,3 +2734,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+input[type=number] {
+  width:45px;
+}
