@@ -1,0 +1,12 @@
+.navigation .navbar-brand {
+    padding-top:0px;
+    padding-bottom:0px;
+}
+
+.navbar-brand>img {
+    height:50px;
+}
+
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+    height:45px;
+}
