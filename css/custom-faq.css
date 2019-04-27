@@ -1,0 +1,80 @@
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color:white;
+    background-color:#655E7A;
+    }
+
+#accordion .panel-heading { padding: 0;}
+#accordion .panel-title > a {
+    display: block;
+    padding: 0.6em 0.6em;
+    outline: none;
+    font-weight:bold;
+    text-decoration: none;
+}
+
+#accordion .panel-title > a.accordion-toggle::before, #accordion a[data-toggle="collapse"]::before  {
+    content:"\e113";
+    float: left;
+    font-family: 'Glyphicons Halflings';
+    margin-right :1em;
+}
+#accordion .panel-title > a.accordion-toggle.collapsed::before, #accordion a.collapsed[data-toggle="collapse"]::before  {
+    content:"\e114";
+}
+
+#accordion2 .panel-heading { padding: 0;}
+#accordion2 .panel-title > a {
+    display: block;
+    padding: 0.6em 0.6em;
+    outline: none;
+    font-weight:bold;
+    text-decoration: none;
+}
+
+#accordion2 .panel-title > a.accordion-toggle::before, #accordion2 a[data-toggle="collapse"]::before  {
+    content:"\e113";
+    float: left;
+    font-family: 'Glyphicons Halflings';
+    margin-right :1em;
+}
+#accordion2 .panel-title > a.accordion-toggle.collapsed::before, #accordion2 a.collapsed[data-toggle="collapse"]::before  {
+    content:"\e114";
+}
+
+#accordion3 .panel-heading { padding: 0;}
+#accordion3 .panel-title > a {
+    display: block;
+    padding: 0.6em 0.6em;
+    outline: none;
+    font-weight:bold;
+    text-decoration: none;
+}
+
+#accordion3 .panel-title > a.accordion-toggle::before, #accordion3 a[data-toggle="collapse"]::before  {
+    content:"\e113";
+    float: left;
+    font-family: 'Glyphicons Halflings';
+    margin-right :1em;
+}
+#accordion3 .panel-title > a.accordion-toggle.collapsed::before, #accordion3 a.collapsed[data-toggle="collapse"]::before  {
+    content:"\e114";
+}
+
+#accordion4 .panel-heading { padding: 0;}
+#accordion4 .panel-title > a {
+    display: block;
+    padding: 0.6em 0.6em;
+    outline: none;
+    font-weight:bold;
+    text-decoration: none;
+}
+
+#accordion4 .panel-title > a.accordion-toggle::before, #accordion4 a[data-toggle="collapse"]::before  {
+    content:"\e113";
+    float: left;
+    font-family: 'Glyphicons Halflings';
+    margin-right :1em;
+}
+#accordion4 .panel-title > a.accordion-toggle.collapsed::before, #accordion4 a.collapsed[data-toggle="collapse"]::before  {
+    content:"\e114";
+}
