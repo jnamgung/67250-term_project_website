@@ -10,8 +10,15 @@
 
 .price_text {
     font-size: 1vw;
+    padding-right: 1vw;
 }
 
 .learn_more_text {
     font-size: 1vw;
+}
+
+.bg-2 {
+  background: url("../images/new_arrivals_header.jpg");
+  background-size: cover;
+  background-attachment: fixed;
 }
