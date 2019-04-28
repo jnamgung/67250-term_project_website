@@ -1,0 +1,17 @@
+.new_arrivals_button {
+  background-color: #655E7A;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1vw;
+}
+
+.price_text {
+    font-size: 1vw;
+}
+
+.learn_more_text {
+    font-size: 1vw;
+}
