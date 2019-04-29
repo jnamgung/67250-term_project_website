@@ -51,11 +51,11 @@ a:hover { color: #101010; }
 } */
 
 .map {
-    height: 600px;
+    height: 610px;
 }
 
 .listings {
-  height: 600px;
+  height: 450px;
   overflow: auto;
   padding-bottom: 60px;
 }
@@ -102,6 +102,11 @@ a:hover { color: #101010; }
   clear: both;
   visibility: hidden;
 }
+
+.listingIcon {
+  padding-right: 12px;
+}
+
 
 /* Marker tweaks */
 .leaflet-popup-close-button {
