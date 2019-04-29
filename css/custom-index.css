@@ -1,0 +1,77 @@
+.promo {
+	width:100%;
+	margin:auto;
+	text-align:center;
+	padding: 5px;
+	border-top-width: 2px;
+	border-top-color: #655E7A;
+	border-top-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #655E7A;
+	border-bottom-style: solid;
+}
+
+.promo a{
+	color: #655E7A;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.promo:hover{
+	background: #655E7A;
+	width:100%;
+	text-align:center;
+	padding: 5px;
+}
+
+.promo:hover a{
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.about .btn-learn-more {
+  background: #655E7A;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+.imagetiles .col{
+	padding: 2px;
+}
+
+.service-item:hover img{
+  opacity: 0.7;
+}
+
+.service-item:hover .text{
+	opacity:1;
+}
+
+.service-item:hover .text2{
+	opacity:1;
+}
+
+.text {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  opacity:0;
+}
+
+.text2 {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  opacity:0;
+}

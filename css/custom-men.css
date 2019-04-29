@@ -1,0 +1,9 @@
+.bg-2 {
+    background: url(../images/men/header-new.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.portfolio-work .block .portfolio-contant .item-overly {
+    background: rgba(60, 55, 55, 0.5);
+}

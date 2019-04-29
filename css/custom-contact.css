@@ -1,0 +1,16 @@
+.bg-2 {
+    background: url(../images/contact/header-new.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.line1 {
+    margin-top: 0;
+}
+
+.line2 {
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
