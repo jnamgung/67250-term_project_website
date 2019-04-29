@@ -58,7 +58,9 @@ $(document).ready(function(){
 		const urlParams = new URLSearchParams(window.location.search);
 		const type = urlParams.get('type');
 		console.log(type);
-		mixer.filter("." + type);
+		if(type) {
+			mixer.filter("." + type);
+		}
 	};
 
 

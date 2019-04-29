@@ -30,22 +30,29 @@ locations.on('ready', function () {
         var listing = listings.appendChild(document.createElement('div'));
         listing.className = 'item';
 
+        var image = listing.appendChild(document.createElement('img'));
+        image.className = 'listingIcon pull-left';
+
         var link = listing.appendChild(document.createElement('a'));
         link.href = '#';
         link.className = 'title warning';
 
         switch (prop.BSType) {
             case "Specialty Store":
-                link.className += " store";
+                link.className += " specialty";
+                image.src = "http://a.tiles.mapbox.com/v4/marker/pin-m-gift+655E7A.png?access_token=pk.eyJ1IjoiaG9vcGxhcHVudGEiLCJhIjoiY2p2MDI0Nzl5MG1jdjQ0cGhiYjBvbXoxNSJ9.P3hC9pWKw6rFFLCB6Q4W6g";
                 break;
             case "Event/Show":
                 link.className += " show";
+                image.src = "http://a.tiles.mapbox.com/v4/marker/pin-m-star+655E7A.png?access_token=pk.eyJ1IjoiaG9vcGxhcHVudGEiLCJhIjoiY2p2MDI0Nzl5MG1jdjQ0cGhiYjBvbXoxNSJ9.P3hC9pWKw6rFFLCB6Q4W6g";
                 break;
-            case "Khol's":
-                link.className += " kohl";
+            case "Kohl's":
+                link.className += " department";
+                image.src = "http://a.tiles.mapbox.com/v4/marker/pin-m-shop+655E7A.png?access_token=pk.eyJ1IjoiaG9vcGxhcHVudGEiLCJhIjoiY2p2MDI0Nzl5MG1jdjQ0cGhiYjBvbXoxNSJ9.P3hC9pWKw6rFFLCB6Q4W6g";
                 break;
             case "JCPenney":
-                link.className += " jcpenney";
+                link.className += " department";
+                image.src = "http://a.tiles.mapbox.com/v4/marker/pin-m-shop+655E7A.png?access_token=pk.eyJ1IjoiaG9vcGxhcHVudGEiLCJhIjoiY2p2MDI0Nzl5MG1jdjQ0cGhiYjBvbXoxNSJ9.P3hC9pWKw6rFFLCB6Q4W6g";
                 break;
             default:
                 break;
@@ -106,3 +113,30 @@ locations.on('layeradd', function (e) {
     //     popupAnchor: [0, -34]
     // }));
 });
+
+var searchbox = document.getElementById("searchbox");
+function updateSearch() {
+    var value = searchbox.value;
+    var getShow = document.getElementById("typeShow").checked;
+    var getSpecialty = document.getElementById("typeSpecialty").checked;
+    var getDepartment = document.getElementById("typeDepartment").checked;
+
+    var listings = document.getElementById("listings");
+    for(item of listings.children) {
+        var hasTitle = item.children[1].innerHTML.toLowerCase().includes(value);
+        var hasAddress = item.children[2].innerHTML.toLowerCase().includes(value);
+        var hasShow = getShow && item.children[1].className.includes("show");
+        var hasSpecialty = getSpecialty && item.children[1].className.includes("specialty");
+        var hasDepartment = getDepartment && item.children[1].className.includes("department");
+
+        if((hasTitle || hasAddress) && (hasShow || hasSpecialty || hasDepartment)) {
+            item.className = "item";
+        } else {
+            item.className = "item hidden";
+        }
+    }
+};
+
+searchbox.oninput = updateSearch;
+
+
