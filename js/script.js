@@ -55,6 +55,10 @@ $(document).ready(function(){
 	var portfolio_item = $('.portfolio-contant-active');
 	if (portfolio_item.length) {
 		var mixer = mixitup(portfolio_item);
+		const urlParams = new URLSearchParams(window.location.search);
+		const type = urlParams.get('type');
+		console.log(type);
+		mixer.filter("." + type);
 	};
 
 
