@@ -1,0 +1,479 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ 
+  {
+    "geometry" : {
+      "coordinates" : [ -73.991468, 40.731719 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "star",
+      "Google Maps URL" : "http://maps.google.com/?q=Broadway+%26+E+10th+St,+New+York,+NY+10003&ftid=0x89c259997e70b36d:0xff7a0fe7e0d78dc",
+      "Location" : {
+        "Latitude" : "40.731719",
+        "Longitude" : "-73.991468"
+      },
+      "Published" : "2019-04-28T15:58:20Z",
+      "Title" : "E 10th St & Broadway, New York, NY 10003",
+      "Updated" : "2019-04-28T15:58:20Z", "BSType": "Event/Show", "ShowTitle": "Broadway Festival", "ShowDuration": "April 30, 2019"
+    },
+    "type" : "Feature"
+  },{
+    "geometry" : {
+      "coordinates" : [ -121.6401813, 37.1124972 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "star",
+      "Google Maps URL" : "http://maps.google.com/?cid=17771770701809294158",
+      "Location" : {
+        "Address" : "224 Tennant Station, Morgan Hill, CA 95037, United States",
+        "Business Name" : "Morgan Hill Mushroom Mardi Gras",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.1124972",
+          "Longitude" : "-121.6401813"
+        }
+      },
+      "Published" : "2019-04-28T16:00:58Z",
+      "Title" : "Morgan Hill Mushroom Mardi Gras",
+      "Updated" : "2019-04-28T16:00:58Z", "BSType": "Event/Show", "ShowTitle": "Mushroom Mardi Gras", "ShowDuration": "May 25, 2019 to May 26, 2019"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -94.6315684, 39.0015528 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "gift",
+      "Google Maps URL" : "http://maps.google.com/?cid=8052952368018430423",
+      "Location" : {
+        "Address" : "22 On The Mall, Prairie Village, KS 66208, United States",
+        "Business Name" : "Bag & Baggage",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "39.0015528",
+          "Longitude" : "-94.6315684"
+        }
+      },
+      "Published" : "2019-04-28T16:03:12Z",
+      "Title" : "Bag & Baggage",
+      "Updated" : "2019-04-28T16:03:12Z", "BSType": "Specialty Store"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -90.1598600, 30.0090400 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "gift",
+      "Google Maps URL" : "http://maps.google.com/?cid=7105571593882418300",
+      "Location" : {
+        "Address" : "3256 Severn Avenue, Metairie, LA 70002, United States",
+        "Business Name" : "Rapp's Luggage & Gifts",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "30.0090400",
+          "Longitude" : "-90.1598600"
+        }
+      },
+      "Published" : "2019-04-28T15:56:49Z",
+      "Title" : "Rapp's Luggage & Gifts",
+      "Updated" : "2019-04-28T15:56:49Z", "BSType": "Specialty Store", "ShowTitle": "Broadway Festival"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -106.5715492, 35.1094086 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "gift",
+      "Google Maps URL" : "http://maps.google.com/?cid=5993655302809034086",
+      "Location" : {
+        "Address" : "6515 Menaul Boulevard Northeast, Albuquerque, NM 87110, United States",
+        "Business Name" : "Lieber's Luggage",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "35.1094086",
+          "Longitude" : "-106.5715492"
+        }
+      },
+      "Published" : "2019-04-28T15:55:59Z",
+      "Title" : "Lieber's Luggage",
+      "Updated" : "2019-04-28T15:55:59Z", "BSType": "Specialty Store"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.142360, 41.160957 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "gift",
+      "Google Maps URL" : "http://maps.google.com/?q=9905+Sapp+Brothers+Dr,+Omaha,+NE+68138&ftid=0x8793f42df2fdbb45:0xc8edd83ad87a99d0",
+      "Location" : {
+        "Address": "9905 Sapp Brothers Dr, Omaha, NE 68138",
+        "Latitude" : "41.160957",
+        "Longitude" : "-96.142360"
+      },
+      "Published" : "2019-04-28T15:54:46Z",
+      "Title" : "Sapps Brothers",
+      "Updated" : "2019-04-28T15:54:46Z", "BSType": "Specialty Store"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.7635890, 40.8320120 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "gift",
+      "Google Maps URL" : "http://maps.google.com/?cid=755724810432632282",
+      "Location" : {
+        "Address" : "416 Idaho Street, Elko, NV 89801, United States",
+        "Business Name" : "Anacabe's-Elko General Merchandise",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.8320120",
+          "Longitude" : "-115.7635890"
+        }
+      },
+      "Published" : "2019-04-28T15:53:22Z",
+      "Title" : "Anacabe's-Elko General Merchandise",
+      "Updated" : "2019-04-28T15:53:22Z", "BSType": "Specialty Store"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "gift",
+      "coordinates" : [ -111.9451567, 40.7398102 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "shop",
+      "Google Maps URL" : "http://maps.google.com/?cid=16628392679620364646",
+      "Location" : {
+        "Address" : "1953 California Avenue, Salt Lake City, UT 84104, United States",
+        "Business Name" : "Sapp Brothers",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7398102",
+          "Longitude" : "-111.9451567"
+        }
+      },
+      "Published" : "2019-04-28T15:52:33Z",
+      "Title" : "Sapp Brothers",
+      "Updated" : "2019-04-28T15:52:33Z", "BSType": "Specialty Store"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -89.1521528, 41.3667036 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "gift",
+      "Google Maps URL" : "http://maps.google.com/?cid=953210326259823202",
+      "Location" : {
+        "Address" : "3130 May Road, Peru, IL 61354, United States",
+        "Business Name" : "Sapp Bros Travel Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.3667036",
+          "Longitude" : "-89.1521528"
+        }
+      },
+      "Published" : "2019-04-28T15:50:24Z",
+      "Title" : "Sapp Bros Travel Center",
+      "Updated" : "2019-04-28T15:50:24Z", "BSType": "Specialty Store"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.0861155, 32.0805690 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "gift",
+      "Google Maps URL" : "http://maps.google.com/?cid=3566797415407538769",
+      "Location" : {
+        "Address" : "502 East River Street, Savannah, GA 31401, United States",
+        "Business Name" : "River Street's Elegant Creations",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "32.0805690",
+          "Longitude" : "-81.0861155"
+        }
+      },
+      "Published" : "2019-04-28T15:49:25Z",
+      "Title" : "River Street's Elegant Creations",
+      "Updated" : "2019-04-28T15:49:25Z", "BSType": "Specialty Store"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -106.3531150, 39.2494150 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "gift",
+      "Google Maps URL" : "http://maps.google.com/?cid=14908819788534626391",
+      "Location" : {
+        "Address" : "Leadville, CO 80461, United States",
+        "Business Name" : "Sugar Loafin' Campground",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "39.2494150",
+          "Longitude" : "-106.3531150"
+        }
+      },
+      "Published" : "2019-04-28T15:48:43Z",
+      "Title" : "Sugar Loafin' Campground",
+      "Updated" : "2019-04-28T15:48:43Z", "BSType": "Specialty Store"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -85.1283255, 41.1208181 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "shop",
+      "Google Maps URL" : "http://maps.google.com/?cid=17094996678605751313",
+      "Location" : {
+        "Address" : "835 East Coliseum Boulevard, Fort Wayne, IN 46805, United States",
+        "Business Name" : "Kohl's Fort Wayne North",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1208181",
+          "Longitude" : "-85.1283255"
+        }
+      },
+      "Published" : "2019-04-28T15:47:03Z",
+      "Title" : "Kohl's Fort Wayne North",
+      "Updated" : "2019-04-28T15:47:03Z", "BSType": "Kohl's"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -83.0945472, 40.0894948 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "shop",
+      "Google Maps URL" : "http://maps.google.com/?cid=1813862961303654317",
+      "Location" : {
+        "Address" : "6063 Sawmill Road, Dublin, OH 43017, United States",
+        "Business Name" : "Kohl's Dublin",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.0894948",
+          "Longitude" : "-83.0945472"
+        }
+      },
+      "Published" : "2019-04-28T15:46:32Z",
+      "Title" : "Kohl's Dublin",
+      "Updated" : "2019-04-28T15:46:32Z", "BSType": "Kohl's"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -89.6531554, 40.7740889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "shop",
+      "Google Maps URL" : "http://maps.google.com/?cid=6693011405757001933",
+      "Location" : {
+        "Address" : "4100 West Willow Knolls Drive, Peoria, IL 61615, United States",
+        "Business Name" : "Kohl's Peoria",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7740889",
+          "Longitude" : "-89.6531554"
+        }
+      },
+      "Published" : "2019-04-28T15:46:03Z",
+      "Title" : "Kohl's Peoria",
+      "Updated" : "2019-04-28T15:46:03Z", "BSType": "Kohl's"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -114.6087170, 32.7038586 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "shop",
+      "Google Maps URL" : "http://maps.google.com/?cid=4807093137467837464",
+      "Location" : {
+        "Address" : "1350 South Castle Dome Avenue, Yuma, AZ 85365, United States",
+        "Business Name" : "Kohl's Yuma",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "32.7038586",
+          "Longitude" : "-114.6087170"
+        }
+      },
+      "Published" : "2019-04-28T15:45:45Z",
+      "Title" : "Kohl's Yuma",
+      "Updated" : "2019-04-28T15:45:45Z", "BSType": "Kohl's"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -83.2487607, 42.2010690 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "shop",
+      "Google Maps URL" : "http://maps.google.com/?cid=12825255889169307842",
+      "Location" : {
+        "Address" : "14500 Racho Boulevard, Taylor, MI 48180, United States",
+        "Business Name" : "Kohl's Southland",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "42.2010690",
+          "Longitude" : "-83.2487607"
+        }
+      },
+      "Published" : "2019-04-28T15:45:32Z",
+      "Title" : "Kohl's Southland",
+      "Updated" : "2019-04-28T15:45:32Z", "BSType": "Kohl's"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -97.9843967, 26.1752112 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "shop",
+      "Google Maps URL" : "http://maps.google.com/?cid=7427846933518751358",
+      "Location" : {
+        "Address" : "715 East Expressway 83, Weslaco, TX 78596, United States",
+        "Business Name" : "JCPenney",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "26.1752112",
+          "Longitude" : "-97.9843967"
+        }
+      },
+      "Published" : "2019-04-28T15:45:00Z",
+      "Title" : "JCPenney",
+      "Updated" : "2019-04-28T15:45:00Z", "BSType": "JCPenney"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.6445166, 41.1311669 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "shop",
+      "Google Maps URL" : "http://maps.google.com/?cid=3837443965931928919",
+      "Location" : {
+        "Address" : "3742 Brookwall Drive Ste 10, Akron, OH 44333, United States",
+        "Business Name" : "JCPenney",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1311669",
+          "Longitude" : "-81.6445166"
+        }
+      },
+      "Published" : "2019-04-28T15:44:49Z",
+      "Title" : "JCPenney",
+      "Updated" : "2019-04-28T15:44:49Z", "BSType": "JCPenney"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -82.5190040, 36.5295830 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "shop",
+      "Google Maps URL" : "http://maps.google.com/?cid=12218669616138635149",
+      "Location" : {
+        "Address" : "2101 Fort Henry Drive, Kingsport, TN 37664, United States",
+        "Business Name" : "JCPenney",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "36.5295830",
+          "Longitude" : "-82.5190040"
+        }
+      },
+      "Published" : "2019-04-28T15:44:08Z",
+      "Title" : "JCPenney",
+      "Updated" : "2019-04-28T15:44:08Z", "BSType": "JCPenney"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -75.4819430, 40.6313560 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "marker-color": "#655E7A",
+      "marker-size": "medium",
+      "marker-symbol": "shop",
+      "Google Maps URL" : "http://maps.google.com/?cid=16466562848208931879",
+      "Location" : {
+        "Address" : "500 Lehigh Valley Mall, Whitehall, PA 18052, United States",
+        "Business Name" : "JCPenney",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.6313560",
+          "Longitude" : "-75.4819430"
+        }
+      },
+      "Published" : "2019-04-28T15:43:53Z",
+      "Title" : "JCPenney",
+      "Updated" : "2019-04-28T15:43:53Z", "BSType": "JCPenney"
+    },
+    "type" : "Feature"
+  } ]
+}
