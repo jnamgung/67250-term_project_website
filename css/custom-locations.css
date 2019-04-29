@@ -51,11 +51,11 @@ a:hover { color: #101010; }
 } */
 
 .map {
-    height: 760px;
+    height: 610px;
 }
 
 .listings {
-  height: 600px;
+  height: 450px;
   overflow: auto;
   padding-bottom: 60px;
 }

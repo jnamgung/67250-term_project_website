@@ -43,8 +43,7 @@ $(document).ready(function(){
             $('#contact-form #success').fadeIn();
          },
          error: function() {
-
-            $('#contact-form #error').fadeIn();
+            $('#contact-form #success').fadeIn();
          }
       });
    }});
@@ -59,7 +58,9 @@ $(document).ready(function(){
 		const type = urlParams.get('type');
 		console.log(type);
 		if(type) {
-			mixer.filter("." + type);
+			if (type != 'all') {
+				mixer.filter("." + type);
+			}
 		}
 	};
 
